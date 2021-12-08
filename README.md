@@ -1,6 +1,6 @@
 <h1>template-backend</h1>
 <p>This is a template for a Node.js backend project</p>
-<p>It contains the following technologies:</p>
+<p>It contains the following tools:</p>
 <ul>
 <li>Node.js</li>
 <li>Express.js</li>
